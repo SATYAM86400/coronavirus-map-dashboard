@@ -7,7 +7,7 @@ const Footer = () => {
     <footer>
       <Container>
         <p>
-          <a href="https://twitter.com/colbyfayock">Made by @colbyfayock</a>
+          <a href="https://twitter.com/colbyfayock">Made by Shivam & Pushkal</a>
         </p>
       </Container>
     </footer>
