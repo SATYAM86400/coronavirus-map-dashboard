@@ -15,7 +15,7 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a href="https://github.com/colbyfayock/coronavirus-map-dashboard">
+            <a href="https://github.com/shivam2357">
               <FaGithub /> Github
             </a>
           </li>
