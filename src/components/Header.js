@@ -15,7 +15,7 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a href="https://github.com/shivam2357">
+            <a href="">
               <FaGithub /> Github
             </a>
           </li>
