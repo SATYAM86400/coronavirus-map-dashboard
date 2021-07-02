@@ -7,7 +7,7 @@ const Footer = () => {
     <footer>
       <Container>
         <p>
-          <a href="">Made by Satyam</a>
+          <a href="">Made by Shivam</a>
         </p>
       </Container>
     </footer>
